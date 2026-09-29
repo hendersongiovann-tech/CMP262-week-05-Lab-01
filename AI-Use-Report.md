@@ -8,7 +8,7 @@ Assignment: Week 5, Lab 1 - Introduction to pandas and EDA
 
 ## 1. Did you use an AI tool for this assignment?
 
-Yes / No
+ No
 
 If yes, which tool did you use?
 
@@ -27,3 +27,5 @@ Explain what you personally added, corrected, tested, or verified.
 ## 5. What did you learn?
 
 Write 2-3 sentences about something you understand better after completing this assignment.
+
+ After completing this assignment, I understand better how to use pandas to filter data and calculate averages. I also learned how to compare groups in a dataset and use the results to support a conclusion.
